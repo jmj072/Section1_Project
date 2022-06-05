@@ -128,7 +128,9 @@ df["Total_Sales"] = df.NA_Sales + df.EU_Sales + df.JP_Sales + df.Other_Sales
 - 일본 : **롤플레잉, 액션, 기타(Misc)** 장르 선호
 
 <br>
+
 ### 출시 지역에 따른 선호 게임 플랫폼
+
 ---
 
 ![image](https://user-images.githubusercontent.com/77204538/171592434-4efa968d-00fa-4002-8366-549fb0d05406.png)
